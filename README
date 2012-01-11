@@ -1,0 +1,5 @@
+A fork of the Maven Resources Plugin
+See: http://svn.apache.org/viewvc/maven/plugins/tags/maven-resources-plugin-2.5
+
+Changes:
+1) Upgrading to Maven Filtering v1.1-FINALIST
